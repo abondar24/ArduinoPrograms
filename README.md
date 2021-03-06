@@ -1,2 +1,2 @@
 # ArduinoPrograms
-Some small arduino progeams
+Some small arduino program sketches
